@@ -97,6 +97,10 @@ extern "C" __declspec(dllexport) UINT32 svc(UINT32 prm_0, UINT32 prm_1, UINT32 p
         //ret
     }
 #else
+#ifdef _ARM_
+    return ((typeofsvc*)(((UINT64)&svcfunc)|1))(prm_0, prm_1, prm_2, prm_3, prm_4, prm_5, prm_6);
+#else
     return ((typeofsvc*)(&svcfunc))(prm_0, prm_1, prm_2, prm_3, prm_4, prm_5, prm_6);
+#endif
 #endif
 }

@@ -1,5 +1,4 @@
-﻿  pch.cpp
-  dllmain.cpp
+﻿  dllmain.cpp
 C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,20): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
 C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,20): warning C4309: '初期化中': 定数値が切り捨てられました。
 C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,26): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
