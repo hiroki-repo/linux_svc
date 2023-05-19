@@ -1,35 +1,26 @@
-﻿  dllmain.cpp
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,20): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,20): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,26): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,26): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,92): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,92): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,98): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,98): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,116): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,116): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,122): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,122): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,146): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,146): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,158): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,158): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,170): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,170): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,176): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,176): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,182): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,182): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,200): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,200): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,206): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,206): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,224): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,224): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,230): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(67,230): warning C4309: '初期化中': 定数値が切り捨てられました。
-C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(80,12): warning C4101: 'svctmp': ローカル変数は 1 度も使われていません。
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,20): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,20): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,26): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,26): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,38): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,38): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,98): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,98): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,110): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,110): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,122): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,122): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,128): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,128): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,134): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,134): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,140): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,140): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,146): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(65,146): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\hiroki_repo\source\repos\linux_svc\dllmain.cpp(78,12): warning C4101: 'svctmp': ローカル変数は 1 度も使われていません。
      ライブラリ C:\Users\hiroki_repo\source\repos\linux_svc\ARM\Release\linux_svc.lib とオブジェクト C:\Users\hiroki_repo\source\repos\linux_svc\ARM\Release\linux_svc.exp を作成中
   コード生成しています。
   コード生成が終了しました。
